@@ -3,7 +3,7 @@
 An AI-powered LinkedIn content creation and management tool built with **Streamlit**.  
 It helps professionals generate personalized LinkedIn posts, research industry trends, optimize engagement, and manage a content calendar — all in one place.
 
----
+Live demo link: https://linkedin-ai-agentproject-65s4efqisrrgw7wwdq9bpw.streamlit.app/
 
 ## 🚀 Features
 
